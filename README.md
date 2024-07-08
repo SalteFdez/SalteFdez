@@ -19,9 +19,9 @@ As a Full Stack Developer actively seeking new opportunities, I am eager to coll
 ![](https://github-contributor-stats.vercel.app/api?username=SalteFdez&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://i.redd.it/v2bl7ueci1691.jpg' style="height: 400px;"/>
 
 ---
-[![](https://i.redd.it/v2bl7ueci1691.jpg)]
+[![](https://visitcount.itsvg.in/api?id=SalteFdez&icon=8&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
